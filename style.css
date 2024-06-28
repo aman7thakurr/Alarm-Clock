@@ -1,0 +1,33 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.showTime{
+    margin-bottom: 10px;
+    border: 6px solid grey;
+    width: 120px;
+    padding: 11px;
+    text-align: center;
+}
+#set{
+    margin-right: 10px;
+}
+hr{
+    width: 500px;
+    border: 1px solid black;
+}
+.setAlarm{
+    margin-top: 20px;
+}
+.setAlarmRing{
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 6px solid grey;
+    width: 120px;
+    padding: 11px;
+    text-align: center;
+}
